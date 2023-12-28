@@ -1,4 +1,8 @@
 # AditiJain-demo
 This is my first Github Repository
 <br>
-Author-Aditi Jain
+Name-Aditi Jain
+<br>
+Currently a student 
+<br>
+Interested in this beautiful tech world
