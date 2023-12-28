@@ -1,8 +1,6 @@
 # AditiJain-demo
 This is my first Github Repository
-<br>
-Name-Aditi Jain
-<br>
-Currently a student 
-<br>
-Interested in this beautiful tech world
+- 👋 Hi, I’m @aditijain8
+- 👀 I’m interested in problem solving and creating new things
+- 🌱 I’m currently learning DSA and Web Development
+- 📫 Interested in this beautiful Tech world
